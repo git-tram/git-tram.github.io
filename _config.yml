@@ -20,8 +20,7 @@ title: DailyExpressions
 ###############################################
 
 navbar-links:
-  Home: "/"
-  Politics: "https://political.dailyexpressions.net"
+  Home: "/" 
   About: "about"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
